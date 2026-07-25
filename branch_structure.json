@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/889-prices-oracle",
+    "fix/903-preferences-validation-tests",
+    "fix/922-transaction-row-mapper",
+    "issue-1",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/889-prices-oracle": "main",
+    "fix/903-preferences-validation-tests": "main",
+    "fix/922-transaction-row-mapper": "main",
+    "issue-1": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/889-prices-oracle",
+    "fix/903-preferences-validation-tests",
+    "fix/922-transaction-row-mapper",
+    "issue-1",
+    "origin"
+  ]
+}
